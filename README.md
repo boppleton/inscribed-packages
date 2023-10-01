@@ -1,5 +1,19 @@
 # inscribed-packages
 
+most of these inscriptions contain proper licensing + copyright info, but some will still need to be fixed/added later via re-inscription.
+
+read about open-source licensing: https://en.wikipedia.org/wiki/Open-source_license
+
+MIT license info: https://opensource.org/license/mit/
+
+___
+
+gzip de-compression guide
+- coming soon
+___
+
+
+
 pinned:
 | Name                           | ID                                                       | Description      |
 |--------------------------------|----------------------------------------------------------|------------------|
@@ -78,3 +92,5 @@ alphabetical:
 | vfx-composer                   | 9f59e26bc81e4d741f77320eaf9e9df8cce623c9639f9c1a49497ac75607e9bei0 |       |
 | vfx-composer-r3f               | 83e835edb1362b5a660f1a6cf86029d77053be073bffc79d8c63cbd4d42862e5i0 |       |
 | zustand-middleware             | 5a9b4f09f34f83cdaf384d4318f5c598095a20011c577892c3beae8f036979b6i0 |       |
+
+
